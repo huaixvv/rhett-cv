@@ -3,7 +3,7 @@ import { CSSTransition, TransitionGroup } from 'react-transition-group';
 import styled from 'styled-components';
 import { navDelay, loaderDelay } from '@utils';
 import { usePrefersReducedMotion } from '@hooks';
-import resume_url from './Rhett_Resume_en_v4.pdf';
+import resume_url from './Rhett_Resume_en_v5.pdf';
 
 const StyledHeroSection = styled.section`
   ${({ theme }) => theme.mixins.flexCenter};
@@ -61,7 +61,7 @@ const Hero = () => {
   }, []);
 
   const one = <h1>Hi, my name is</h1>;
-  const two = <h2 className="big-heading">Rhett Harris.</h2>;
+  const two = <h2 className="big-heading">Rhett.</h2>;
   const three = <h3 className="big-heading">I'm a software engineer.</h3>;
   const four = (
     <>
