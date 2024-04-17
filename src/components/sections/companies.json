@@ -1,0 +1,26 @@
+[
+  {
+    "node": {
+      "frontmatter": {
+        "title": "Frontend Developer",
+        "company": "TUHU Car Inc.",
+        "range": "",
+        "url": "https://apps.apple.com/cn/app/%E9%80%94%E8%99%8E%E5%85%BB%E8%BD%A6-%E4%B8%93%E4%B8%9A%E6%B1%BD%E8%BD%A6%E4%BF%9D%E5%85%BB%E5%B9%B3%E5%8F%B0/id943708006"
+      },
+      "html": "<ul>\n<li>Collaborate with product managers and designers to develop projects, ensuring alignment with goals and user requirements.</li>\n<li>Lead project reviews, contribute to system design, conduct code reviews, and perform thorough system testing to maintain high-quality standards.</li>\n<li>Develop and optimize company-wide libraries and efficiency tools to streamline development processes and enhance productivity.</li>\n<li>Responsible for the development of the company's SaaS systems, such as e-commerce platforms, WMS, TMS, etc.</li>\n</ul>"
+    }
+  },
+  {
+    "node": {
+      "frontmatter": {
+        "title": "Fullstack Developer",
+        "company": "Mikoptik Inc.",
+        "range": "",
+        "url": "https://www.mikoptik.com"
+      },
+      "html": "<ul>\n<li>Lead the development of Computer-Aided Manufacturing (CAM) software, overseeing requirement reviews, project development, and testing phases.</li>\n<li>Provide support for the development of script execution systems, ensuring smooth operation and functionality.</li>\n<li>Design and implement workflow engines to automate and optimize business processes.</li>\n<li>Develop robust file management systems to efficiently organize and manage project assets and data.</li>\n</ul>"
+    }
+  }
+]
+
+

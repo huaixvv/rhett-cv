@@ -1,0 +1,68 @@
+[
+  {
+    "node": {
+      "frontmatter": {
+        "title": "Logistics Management System",
+        "tech": [],
+        "github": "",
+        "external": ""
+      },
+      "html": "<p>Mainly includes functions such as delivery order management, delivery, and map visualization operations.</p>"
+    }
+  },
+  {
+    "node": {
+      "frontmatter": {
+        "title": "Points Mall",
+        "tech": [],
+        "github": "",
+        "external": ""
+      },
+      "html": "<p>Distributors' employees to use points to redeem products in the mall. It includes both the mall website and the backend management system.</p>"
+    }
+  },
+  {
+    "node": {
+      "frontmatter": {
+        "title": "Page Development Tool",
+        "tech": [],
+        "github": "",
+        "external": ""
+      },
+      "html": "<p>Tools to quickly generate pages. It focus on list&table pages, where pages are highly similar. Produced both a CLI tool and a VS Code visual plugin.</p>"
+    }
+  },
+  {
+    "node": {
+      "frontmatter": {
+        "title": "CAM Software",
+        "tech": [],
+        "github": "",
+        "external": ""
+      },
+      "html": "<p>CAM software primarily serves the company's CNC graphic drawing needs, such as the drawing of circuit board graphics.</p>"
+    }
+  },
+  {
+    "node": {
+      "frontmatter": {
+        "title": "Script Service",
+        "tech": [],
+        "github": "",
+        "external": ""
+      },
+      "html": "<p>Execute Cshell scripts, upload script file in web page, and the backend parses and run the script, support customizing commands.</p>"
+    }
+  },
+  {
+    "node": {
+      "frontmatter": {
+        "title": "More...",
+        "tech": [],
+        "github": "",
+        "external": ""
+      },
+      "html": "<p>WMS, FMS and more...</p>"
+    }
+  }
+]
